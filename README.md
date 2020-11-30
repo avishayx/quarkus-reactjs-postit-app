@@ -8,7 +8,7 @@ A Cloud ready Post it app composed of
 To run this demo:
 1. Fork this repo and modify the following button changing the URL on this README.md file:
 2. Start the workspace: [![Contribute](factory-contribute.svg)](
-https://codeready-openshift-workspaces.apps.cluster-866e.866e.example.opentlc.com/dashboard/#/load-factory?url=https:%2F%2Fgithub.com%2Favishayx%2Fquarkus-reactjs-postit-app)
+https://codeready-openshift-workspaces.apps.cluster-866e.866e.example.opentlc.com/factory?url=https://github.com/avishayx/quarkus-reactjs-postit-app)
 
 The URL should use your instance of Che/CodeReady Workspaces:
 
